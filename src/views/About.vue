@@ -5,11 +5,10 @@
     <div class="paragraph">
       <div>
         I'm <strong>Buddhika</strong>, a game developer, living in Sri Lanka.<br/>
-        I spend my days making games for a local game dev company.
       </div>
 
       <div style="margin-top: 20px;">I make <router-link to="/game-projects">Casual Mobile Games</router-link> and <router-link to="/music-games">Music Games</router-link> using Pixi.Js. 
-      Also you can see some <router-link to="/leisure-study">personal Unity games and projects</router-link> that I have created.</div>
+      You can see some <router-link to="/leisure-study">personal Unity games and projects</router-link> that I have created.</div>
 
     </div>
 

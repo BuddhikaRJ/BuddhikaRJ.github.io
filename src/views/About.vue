@@ -12,9 +12,9 @@
 
     </div>
 
-    <div class="photo">
+    <!-- <div class="photo">
       <img src="img/avatar.png" alt="Avatar of Buddhika" /> 
-    </div>
+    </div> -->
 
     <div style="clear:both"></div>
 

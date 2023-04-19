@@ -28,9 +28,43 @@ export default Vue.extend({
 
 // Preload heavy images or gifs that are used in other pages
 Helpers.preloadImages([
-  "img/projects/project-1-icon.png",
-  "img/projects/project-2-icon.png",
-  "img/projects/project-3-icon.png"
+"img/projects/games/bladehit.gif",
+  "img/projects/games/blokndino.gif",
+  "img/projects/games/crazyspace.gif",
+  "img/projects/games/dancemonkey.gif",
+  "img/projects/games/dodge.gif",
+  "img/projects/games/eaglesquadron.gif",
+  "img/projects/games/keells.gif",
+  "img/projects/games/mandapama.gif",
+  "img/projects/games/nerotarget.gif",
+  "img/projects/games/royalblade.gif",
+  "img/projects/games/shhuriken.gif",
+
+  "img/projects/screenshots/keells_menu.png",
+  "img/projects/screenshots/shuriken_menu.png",
+  "img/projects/screenshots/nero_game.png",
+  "img/projects/screenshots/blokndino_ad.jpg",
+  "img/projects/screenshots/eagle_menu.png",
+  "img/projects/screenshots/r_blade_menu.png",
+  "img/projects/screenshots/bladehit_menu.png",
+  "img/projects/screenshots/dodge_menu.png",
+  "img/projects/screenshots/crazyspace_menu.png",
+
+  "img/projects/toolProjects/imitemplate.png",
+  "img/projects/toolProjects/secuityThumb.jpg",
+
+  "img/projects/screenshots/hiveMenu.jpg",
+  "img/projects/screenshots/ar_1.jpeg",
+  "img/projects/other/tutorials.jpg",
+  "img/projects/other/blogs.jpg",
+
+  "img/projects/screenshots/kanthi_menu.png",
+  "img/projects/screenshots/heena_perata_menu.png",
+  "img/projects/screenshots/dncemonkey_menu.png",
+  "img/projects/screenshots/manda_pama_menu.png",
+
+  "img/projects/other/neospic2.jpg",
+  "img/projects/other/election.jpg",
 ]);
 
 </script>

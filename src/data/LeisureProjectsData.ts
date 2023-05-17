@@ -70,19 +70,56 @@ export default [
 
     `, "#5674bc", false, false),
 
-    new ProjectData("project-22", "Write ups", "img/projects/other/blogs.jpg", 
+    new ProjectData("project-22", "Robots and Dragons", "img/projects/other/blogs.jpg", 
     `<div class="paragraph">
-     This is a small Write-up that I completed While learning how to make Bitmap Fonts.
+        This game project was started to teach University students on using the Unity Engine, Basics of vector math, Unity Scripting API.
+        <br>I have extended the game further as a personal project after teaching the basics.
+        <br>More features are in Development and current stage is now in Itch.io.
+        <br>Heavily based on twin stick shooters like Nex Machina.
+        <br>Used free Assets from Unity Asset Store.
     </div>
 
     <div class="paragraph center">
-    <img class="large-screenshot" src="img/projects/other/article.png" alt="crazy space game screenshot" />
+        <iframe class="youtube" src="https://www.youtube.com/embed/dtEFNBI-qPc" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <div class="paragraph center">
+    <a href="https://buddhika.itch.io/robots-and-dragons" target="_blank">Play on Itch.io</a>
+    </div>
+
+    `, "#23a136", false, false),
+
+    new ProjectData("project-22", "Medium - Bitmap Font Creation", "img/projects/other/blogs.jpg", 
+    `<div class="paragraph center">
+     This is a small Write-up that I completed While learning how to make Bitmap Fonts.
     </div>
 
     <div class="paragraph center">
     <a href="https://medium.com/@codeNplay/make-bitmap-fonts-using-bmfont-71de27c9257e" target="_blank">read on Medium</a>
     </div>
 
-    `, "#eb7464", false, false),
+    `, "#23a136", false, false),
+
+    new ProjectData("project-22", "Medium - GitHub Actions for Unity Android - Playstore Games", "img/projects/other/blogs.jpg", 
+    `<div class="paragraph center">
+     Make a free build / deployment pipeline for Android games for Play Store.
+    </div>
+
+    <div class="paragraph center">
+    <a href="https://medium.com/@codeNplay/using-github-actions-to-automate-unity-android-build-publishing-53f22c34db6b" target="_blank">read on Medium</a>
+    </div>
+
+    `, "#23a136", false, false),
+
+    new ProjectData("project-22", "Medium - GitHub Actions for Unity WebGL - Itch.io Games", "img/projects/other/blogs.jpg", 
+    `<div class="paragraph center">
+        Make a free build / deployment pipeline for WebGL games for Itch.io.
+    </div>
+
+    <div class="paragraph center">
+    <a href="https://medium.com/@codeNplay/how-i-automated-my-unity-webgl-publishing-to-itch-io-with-github-actions-aab0fe1fa217" target="_blank">read on Medium</a>
+    </div>
+
+    `, "#23a136", false, false),
 
 ];

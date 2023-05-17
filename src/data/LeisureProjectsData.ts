@@ -70,7 +70,7 @@ export default [
 
     `, "#5674bc", false, false),
 
-    new ProjectData("project-22", "Robots and Dragons", "img/projects/other/blogs.jpg", 
+    new ProjectData("project-22", "Robots and Dragons", "img/projects/other/robotsanddragons.png", 
     `<div class="paragraph">
         This game project was started to teach University students on using the Unity Engine, Basics of vector math, Unity Scripting API.
         <br>I have extended the game further as a personal project after teaching the basics.

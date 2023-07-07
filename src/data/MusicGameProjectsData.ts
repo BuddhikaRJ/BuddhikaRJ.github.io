@@ -6,9 +6,6 @@ export default [
       `<div class="paragraph">
     <strong>Kanthi</strong> is an endless music game made to promote a local singer's song release.
    </div>
-   <div class="paragraph center">
-       <a href="https://bit.ly/3sq2xre" target="_blank">Play the game on browser</a>
-   </div>
 
    <div class="paragraph">
        Project details :
@@ -21,6 +18,14 @@ export default [
    </div>
 
    <div class="paragraph center">
+   <a href="https://bit.ly/3sq2xre" target="_blank">Play the game on browser</a>
+</div>
+   
+   <div class="paragraph center">
+   <iframe class="youtube" src="https://www.youtube.com/embed/1h-qkLgFY5s" frameborder="0" allowfullscreen></iframe>
+   </div>
+
+   <div class="paragraph center">
        <img class="phone-screenshot" src="img/projects/screenshots/kanthi_game.png" alt="kanthi game screenshot" />
        <img class="phone-screenshot" src="img/projects/games/kanthi.gif" alt="kanthi game screenshot" />
    </div>`
@@ -30,9 +35,7 @@ export default [
       `<div class="paragraph">
       <strong>Heena Perata</strong> is an endless music game made to promote a local singer's song release.
      </div>
-     <div class="paragraph center">
-         <a href="https://bit.ly/3wkU9dM" target="_blank">Play the game on browser</a>
-     </div>
+
   
      <div class="paragraph">
      Project details :
@@ -43,6 +46,14 @@ export default [
      <li>Developed using PIXI.JS</li>
      </ul>
  </div>
+
+    <div class="paragraph center">
+    <a href="https://bit.ly/3wkU9dM" target="_blank">Play the game on browser</a>
+    </div>
+
+    <div class="paragraph center">
+    <iframe class="youtube" src="https://www.youtube.com/embed/_-cpgVpUGRM" frameborder="0" allowfullscreen></iframe>
+    </div>
   
      <div class="paragraph center">
          <img class="phone-screenshot" src="img/projects/games/heenaperata.gif" alt="heena perata game screenshot" />
@@ -52,9 +63,6 @@ export default [
       new ProjectData("project-12", "Dance Monkey", "img/projects/screenshots/dncemonkey_menu.png", 
       `<div class="paragraph">
       <strong>Dance Monkey</strong> is an endless music game made to promote a local singer who covered the popular song Dance Monkey.
-     </div>
-     <div class="paragraph center">
-         <a href="https://bit.ly/3G1slQ5" target="_blank">Play the game on browser</a>
      </div>
   
      <div class="paragraph">
@@ -66,6 +74,10 @@ export default [
          <li>Developed using PIXI.JS</li>
          </ul>
      </div>
+
+     <div class="paragraph center">
+     <a href="https://bit.ly/3G1slQ5" target="_blank">Play the game on browser</a>
+ </div>
   
      <div class="paragraph center">
          <img class="phone-screenshot" src="img/projects/screenshots/dncemonkey_menu.png" alt="dance monkey screenshot" />
@@ -77,9 +89,7 @@ export default [
       `<div class="paragraph">
       <strong>Manda Pama</strong> was the first attempt to create a game for a song. It is an endless music game made to promote a local singer's song release.
      </div>
-     <div class="paragraph center">
-         <a href="https://bit.ly/3M61yEo" target="_blank">Play the game on browser</a>
-     </div>
+
   
      <div class="paragraph">
          Project details :
@@ -88,6 +98,14 @@ export default [
          <li>Developed using PIXI.JS</li>
          </ul>
      </div>
+
+     <div class="paragraph center">
+     <a href="https://bit.ly/3M61yEo" target="_blank">Play the game on browser</a>
+ </div>
+
+ <div class="paragraph center">
+ <iframe class="youtube" src="https://www.youtube.com/embed/4YcbdiE9yMA?start=30" frameborder="0" allowfullscreen></iframe>
+ </div>
   
      <div class="paragraph center">
          <img class="phone-screenshot" src="img/projects/games/mndapama.gif" alt="manda pama game screenshot" />

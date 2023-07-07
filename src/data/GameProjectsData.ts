@@ -6,10 +6,7 @@ export default [
      <strong>Keells Power Shopper</strong> is an endless horizontal-scrolling platformer game made in behalf of promoting a
      local supermarket chain. Prizes were given for top scoring players
     </div>
-   
-    <div class="paragraph center">
-        <a href="https://bit.ly/39FyrcK" target="_blank">Play the game on browser</a>
-    </div>
+
   
     <div class="paragraph">
         Project details :
@@ -20,6 +17,14 @@ export default [
         <li>Developed using PIXI.js</li>
         <li>Included Skeletal animations made using Spine</li>
         </ul>
+    </div>
+
+    <div class="paragraph center">
+    <a href="https://bit.ly/39FyrcK" target="_blank">Play the game on browser</a>
+    </div>
+
+    <div class="paragraph center">
+    <iframe class="youtube" src="https://www.youtube.com/embed/16yXuxyWQ8g" frameborder="0" allowfullscreen></iframe>
     </div>
   
     <div class="paragraph center">
@@ -32,9 +37,6 @@ export default [
     `<div class="paragraph">
      <strong>Shuriken Showdown</strong> is an endless game based on the throwing mechanism.
     </div>
-    <div class="paragraph center">
-        <a href="https://bit.ly/3kUVin5" target="_blank">Play the game on browser</a>
-    </div>
 
     <div class="paragraph">
         Project details :
@@ -43,6 +45,14 @@ export default [
         <li>Includes multi-language support, currently for English, Sinhala and Tamil</li>
         <li>Developed using PIXI.JS</li>
         </ul>
+    </div>
+
+    <div class="paragraph center">
+    <a href="https://bit.ly/3kUVin5" target="_blank">Play the game on browser</a>
+    </div>
+
+    <div class="paragraph center">
+    <iframe class="youtube" src="https://www.youtube.com/embed/DVdZbovMpFU" frameborder="0" allowfullscreen></iframe>
     </div>
 
     <div class="paragraph center">
@@ -56,9 +66,6 @@ export default [
     `<div class="paragraph">
      <strong>Nero Target</strong> is an endless sniper shooting game.
     </div>
-    <div class="paragraph center">
-        <a href="https://bit.ly/3PdRf30" target="_blank">Play the game on browser</a>
-    </div>
 
     <div class="paragraph">
         Project details :
@@ -67,6 +74,14 @@ export default [
         <li>Developed using PIXI.JS</li>
         <li>Includes moving targets, wind resistance to alter bullet destination</li>
         </ul>
+    </div>
+
+    <div class="paragraph center">
+    <a href="https://bit.ly/3PdRf30" target="_blank">Play the game on browser</a>
+    </div>
+
+    <div class="paragraph center">
+    <iframe class="youtube" src="https://www.youtube.com/embed/48kJWPcNVXc" frameborder="0" allowfullscreen></iframe>
     </div>
 
     <div class="paragraph center">
@@ -79,9 +94,6 @@ export default [
     `<div class="paragraph">
      <strong>Blok and Dino's Office Hora Police</strong> is an endless fighting game, promoting a local celebrity duo named as Blok and Dino.
     </div>
-    <div class="paragraph center">
-        <a href="https://bit.ly/3N5noYR" target="_blank">Play the game on browser</a>
-    </div>
   
     <div class="paragraph">
         Project details :
@@ -91,6 +103,14 @@ export default [
         <li>Includes different enemy AI characters with varying difficulty</li>
         <li>Developed using PIXI.JS</li>
         </ul>
+    </div>
+
+    <div class="paragraph center">
+    <a href="https://bit.ly/3N5noYR" target="_blank">Play the game on browser</a>
+    </div>
+
+    <div class="paragraph center">
+    <iframe class="youtube" src="https://www.youtube.com/embed/t5qlmIRDqio" frameborder="0" allowfullscreen></iframe>
     </div>
   
     <div class="paragraph center">
@@ -104,9 +124,6 @@ export default [
     `<div class="paragraph">
      <strong>Eagle Squadron</strong> is an endless vertically scrolling shooter game.
     </div>
-    <div class="paragraph center">
-        <a href="https://bit.ly/3kVIhcO" target="_blank">Play the game on browser</a>
-    </div>
 
     <div class="paragraph">
         Project details :
@@ -115,6 +132,14 @@ export default [
         <li>Includes multi-language support, currently for English, Sinhala and Tamil</li>
         <li>Developed using PIXI.JS</li>
         </ul>
+    </div>
+
+    <div class="paragraph center">
+    <a href="https://bit.ly/3kVIhcO" target="_blank">Play the game on browser</a>
+    </div>
+
+    <div class="paragraph center">
+    <iframe class="youtube" src="https://www.youtube.com/embed/OMv63-1DZMc" frameborder="0" allowfullscreen></iframe>
     </div>
 
     <div class="paragraph center">
@@ -128,9 +153,6 @@ export default [
     `<div class="paragraph">
      <strong>Royal Blade</strong> is an endless game made around the bottle flip challenge.
     </div>
-    <div class="paragraph center">
-        <a href="https://bit.ly/3yIadsZ" target="_blank">Play the game on browser</a>
-    </div>
 
     <div class="paragraph">
         Project details :
@@ -142,6 +164,14 @@ export default [
     </div>
 
     <div class="paragraph center">
+    <a href="https://bit.ly/3yIadsZ" target="_blank">Play the game on browser</a>
+    </div>
+
+    <div class="paragraph center">
+    <iframe class="youtube" src="https://www.youtube.com/embed/P9sLXgdLtL0" frameborder="0" allowfullscreen></iframe>
+    </div>
+
+    <div class="paragraph center">
         <img class="phone-screenshot" src="img/projects/games/royalblade.gif" alt="royal blade screenshot" />
     </div>
     `, "#b18035", false, false),
@@ -150,9 +180,6 @@ export default [
     `<div class="paragraph">
     <strong>Blade Hit</strong> is an endless game made simillar to the popular knife hit game.
    </div>
-   <div class="paragraph center">
-       <a href="https://bit.ly/3ItLyer" target="_blank">Play the game on browser</a>
-   </div>
 
    <div class="paragraph">
        Project details :
@@ -162,6 +189,14 @@ export default [
        <li>Developed using PIXI.JS</li>
        </ul>
    </div>
+
+   <div class="paragraph center">
+   <a href="https://bit.ly/3ItLyer" target="_blank">Play the game on browser</a>
+    </div>
+
+    <div class="paragraph center">
+    <iframe class="youtube" src="https://www.youtube.com/embed/E34Xfrz5lZU" frameborder="0" allowfullscreen></iframe>
+    </div>
 
    <div class="paragraph center">
        <img class="phone-screenshot" src="img/projects/games/bladehit.gif" alt="royal blade screenshot" />
@@ -169,13 +204,9 @@ export default [
    , "#c4863f", false, false),
   
 
-
       new ProjectData("project-8", "Dodge", "img/projects/screenshots/dodge_menu.png", 
       `<div class="paragraph">
     <strong>Dodge</strong> is an endless game made to dodge incoming bullets inside a circular area.
-   </div>
-   <div class="paragraph center">
-       <a href="https://bit.ly/39K1dZL" target="_blank">Play the game on browser</a>
    </div>
 
    <div class="paragraph">
@@ -186,6 +217,14 @@ export default [
        <li>Developed using PIXI.JS</li>
        </ul>
    </div>
+
+   <div class="paragraph center">
+       <a href="https://bit.ly/39K1dZL" target="_blank">Play the game on browser</a>
+   </div>
+
+    <div class="paragraph center">
+    <iframe class="youtube" src="https://www.youtube.com/embed/FNjJ3X5Wtnk" frameborder="0" allowfullscreen></iframe>
+    </div>
 
    <div class="paragraph center">
        <img class="phone-screenshot" src="img/projects/games/dodge.gif" alt="dodge game screenshot" />
@@ -196,9 +235,7 @@ export default [
       `<div class="paragraph">
     <strong>Crazy Space</strong> is an endless game inspired by Flappy Bird.
    </div>
-   <div class="paragraph center">
-       <a href="https://bit.ly/3MUz9kn" target="_blank">Play the game on browser</a>
-   </div>
+
 
    <div class="paragraph">
        Project details :
@@ -208,6 +245,14 @@ export default [
        <li>Developed using PIXI.JS</li>
        </ul>
    </div>
+
+   <div class="paragraph center">
+   <a href="https://bit.ly/3MUz9kn" target="_blank">Play the game on browser</a>
+</div>
+
+    <div class="paragraph center">
+    <iframe class="youtube" src="https://www.youtube.com/embed/OjQRDJacFd4" frameborder="0" allowfullscreen></iframe>
+    </div>
 
    <div class="paragraph center">
        <img class="phone-screenshot" src="img/projects/screenshots/crazyspace_game.png" alt="crazy space game screenshot" />

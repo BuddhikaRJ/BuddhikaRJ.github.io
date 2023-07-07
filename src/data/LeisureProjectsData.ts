@@ -13,12 +13,13 @@ export default [
      <br>Collectibles are 3D objects made using MagicaVoxel.
      <br>Google play games sdk was intedrated to make leaderboards, and ad rewards.
     </div>
+
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/i4QdrKA5srM" frameborder="0" allowfullscreen></iframe>
+    <a href="https://drive.google.com/file/d/1YuevhN1xfmeclOa0HMbnNeKPpZtEbtBp/view?usp=sharing" target="_blank">Download Apk file from Google drive</a>
     </div>
 
     <div class="paragraph center">
-    <a href="https://drive.google.com/file/d/1YuevhN1xfmeclOa0HMbnNeKPpZtEbtBp/view?usp=sharing" target="_blank">Apk file on Google drive</a>
+        <iframe class="youtube" src="https://www.youtube.com/embed/i4QdrKA5srM" frameborder="0" allowfullscreen></iframe>
     </div>
 
     <div class="paragraph center">
@@ -80,11 +81,11 @@ export default [
     </div>
 
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dtEFNBI-qPc" frameborder="0" allowfullscreen></iframe>
+    <a href="https://buddhika.itch.io/robots-and-dragons" target="_blank">Play on Itch.io</a>
     </div>
 
     <div class="paragraph center">
-    <a href="https://buddhika.itch.io/robots-and-dragons" target="_blank">Play on Itch.io</a>
+        <iframe class="youtube" src="https://www.youtube.com/embed/dtEFNBI-qPc" frameborder="0" allowfullscreen></iframe>
     </div>
 
     `, "#23a136", false, false),

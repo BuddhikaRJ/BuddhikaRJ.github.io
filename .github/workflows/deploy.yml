@@ -54,4 +54,4 @@ jobs:
         if: always()
         uses: geekyeggo/delete-artifact@v1
         with:
-            name: github-pages
+            name: production-files

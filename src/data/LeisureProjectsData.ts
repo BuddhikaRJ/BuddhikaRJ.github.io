@@ -15,7 +15,7 @@ export default [
     </div>
 
     <div class="paragraph center">
-    <a href="https://drive.google.com/file/d/1YuevhN1xfmeclOa0HMbnNeKPpZtEbtBp/view?usp=sharing" target="_blank">Download Apk file from Google drive</a>
+    <a href="https://drive.google.com/file/d/1YuevhN1xfmeclOa0HMbnNeKPpZtEbtBp/view?usp=sharing" target="_blank">Download Apk from Google drive</a>
     </div>
 
     <div class="paragraph center">

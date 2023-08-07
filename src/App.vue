@@ -80,13 +80,15 @@ html, body {
 }
 
 body {
-  -ms-overflow-style: none; /* for Internet Explorer, Edge */
-  scrollbar-width: none; /* for Firefox */
   overflow-y: scroll; 
 }
 
 body::-webkit-scrollbar {
-  display: none; /* for Chrome, Safari, and Opera */
+  background-color: @contentBgColor; /* for Chrome, Safari, and Opera */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: @bodyBgColor;
 }
 
 #app {
